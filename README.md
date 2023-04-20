@@ -10,8 +10,8 @@
 1. Download [Python](https://www.python.org/downloads/) (Currently 3.11)
 2. Clone the repo
    ```sh
-   git clone https://github.com/DarioArzaba/JavaStandalonePrograms.git
-   cd JavaStandalonePrograms
+   git clone https://github.com/DarioArzaba/PythonStandalonePrograms.git
+   cd PythonStandalonePrograms
    ```
 2. Install the necessary packages, if a module is not found install it using pip
    ```sh
